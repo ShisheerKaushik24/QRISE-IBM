@@ -37,13 +37,13 @@ In many domains, quantum computing has demonstrated its superiority over classic
 
 Create a conda environment with the required dependencies:
 ```bash
-conda env create -n quantumproj environment.yml && conda activate IBMQRISEproj
+conda env create -n IBMQRISEproj environment.yml && conda activate IBMQRISEproj
 ```
 <br>
   
 Alternatively, one can install the required dependencies via the [package_list.txt](package_list.txt) file:
 ```bash
-conda create -yn quantumproj python==3.9.11 && conda activate quantumproj
+conda create -yn IBMQRISEproj python==3.9.11 && conda activate IBMQRISEproj
 ```
 ```bash
 conda update -yn base -c defaults conda && conda install -yc conda-forge pip==22.1.2
