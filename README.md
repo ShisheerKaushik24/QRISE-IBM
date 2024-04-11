@@ -2,7 +2,7 @@
 
 [![Python version 3.9](https://img.shields.io/badge/python-v3.9-brightgreen)](https://docs.python.org/3/whatsnew/3.9.html)
 
-[Proposal Title](#proposal-title) | [Problem Statement](#problem-statement) | [Project Objective](#project-objective) | [contributors](#contributors) | [Literature Survey](literature_survey.md) | [Implementation Details](Implementation/notebook) | [Project Report](prompt/report.pdf) | [Project Slides](prompt/ppt.pdf) | [Details](https://youtu.be/uIKkJragaoU?si=E95tmCCPxxCMWNke) | [Conclusion](#conclusion) |
+[Proposal Title](#project-title) | [Problem Statement](#project-statement) | [Project Objective](#project-objective) | [contributors](#contributors) | [Literature Survey](literature_survey.md) | [Implementation Details](Implementation/notebook) | [Project Report](Implementation/test/project-report.pdf)
 
 ### Contributors:
 
