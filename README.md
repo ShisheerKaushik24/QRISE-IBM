@@ -4,7 +4,7 @@
 
 [Proposal Title](#proposal-title) | [Problem Statement](#problem-statement) | [Project Objective](#project-objective) | [contributors](#contributors) | [Literature Survey](literature_survey.md) | [Implementation details](austism) | [Project Report](prompt/report.pdf) | [Project Slides](prompt/ppt.pdf) | [Details](https://youtu.be/uIKkJragaoU?si=E95tmCCPxxCMWNke) | [Conclusion](#conclusion) |
 
-The implementation of the project can be accessed via the following link: [here](implementation/notebook).<br>
+The implementation of the project can be accessed via the following link: [here](Implementation/notebook).<br>
 Also access the implemented [Project report](austism/penn.ipynb).
 
 ### Contributors:
