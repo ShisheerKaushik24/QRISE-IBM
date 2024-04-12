@@ -2,7 +2,7 @@
 
 [![Python version 3.9](https://img.shields.io/badge/python-v3.9-brightgreen)](https://docs.python.org/3/whatsnew/3.9.html)
 
-[Proposal Title](#project-title) | [Problem Statement](#project-statement) | [Project Objective](#project-objective) | [contributors](#contributors) | [Literature Survey](literature_survey.md) | [Implementation Details](Implementation/notebook) | [Project Report](Implementation/test/project-report.pdf)
+[Proposal Title](#project-title) | [Problem Statement](#project-statement) | [Project Objective](#project-objective) | [contributors](#contributors) | [Literature Survey](literature_survey.md) | [Implementation Details](Implementation/notebook) | [Presentation Video](https://drive.google.com/file/d/1llO8XB84C93lJCPkRjaq5ryTzmxlaNUu/view) | [Project Report](Implementation/test/project-report.pdf)
 
 ### Contributors:
 
@@ -10,6 +10,8 @@
 |------------------|-------------------------------------------------|
 | Shisheer S Kaushik(M23IQT0063) | [Kaushik](https://www.linkedin.com/in/shisheerkaushik24/) | 
 | Thirumalai M(M23IQT008)| [Thiru](https://www.linkedin.com/in/m-thirumalai/?originalSubdomain=in)| 
+
+Access the [Project Report](Implementation/test/project-report.pdf) and the [Presentation Video](https://drive.google.com/file/d/1llO8XB84C93lJCPkRjaq5ryTzmxlaNUu/view).
                                                       
 #### Project Title
 
