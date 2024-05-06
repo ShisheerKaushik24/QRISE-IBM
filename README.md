@@ -12,6 +12,13 @@
 | Thirumalai M(M23IQT008)| [Thiru](https://www.linkedin.com/in/m-thirumalai/?originalSubdomain=in)| 
 
 Access the [Project Report](Implementation/test/project-report.pdf) and the [Presentation Video](https://drive.google.com/file/d/1llO8XB84C93lJCPkRjaq5ryTzmxlaNUu/view).
+
+### Certificate of Achievement:
+
+<p align="center">
+  <img src="certificate_image.jpg" alt="Certificate of Achievement" width="300" height="400">
+</p>
+
                                                       
 #### Project Title
 
