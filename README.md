@@ -16,7 +16,7 @@ Access the [Project Report](Implementation/test/project-report.pdf) and the [Pre
 ### Certificate of Achievement:
 
 <p align="center">
-  <img src="certi.jpg" alt="Certificate of Achievement" width="300" height="400">
+  <img src="certi.jpg" alt="Certificate of Achievement" width="350" height="200">
 </p>
 
                                                       
