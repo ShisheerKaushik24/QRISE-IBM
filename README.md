@@ -13,7 +13,7 @@
 
 Access the [Project Report](Implementation/test/project-report.pdf) and the [Presentation Video](https://drive.google.com/file/d/1llO8XB84C93lJCPkRjaq5ryTzmxlaNUu/view).
 
-### Certificate of Achievement:
+### Honourable Mention Certificate:
 
 <p align="center">
   <img src="certi.jpg" alt="Certificate of Achievement" width="350" height="200">
